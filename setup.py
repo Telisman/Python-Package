@@ -20,5 +20,5 @@ setup(
     long_description=open('README.md').read(),
     classifiers = classifiers,
     keywords='calculator',
-    install_requires=[''],
+    install_requires=['setuptools>=56','pip>= 22.0.4'],
 )
