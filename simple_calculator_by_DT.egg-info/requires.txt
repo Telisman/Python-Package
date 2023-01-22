@@ -1,2 +1,0 @@
-setuptools>=56
-pip>=22.0.4
